@@ -7,4 +7,4 @@ para rodar esse projeto na maquina, digite:
 ```
 node app.js
 ```
-teste
+teste.
